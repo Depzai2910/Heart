@@ -34,7 +34,7 @@ uniform float time;
 #define POINT_COUNT 8
 
 vec2 points[POINT_COUNT];
-const float speed = -0.2;
+const float speed = -0.05;
 const float len = 0.25;
 float intensity = 1.3;
 float radius = 0.008;
